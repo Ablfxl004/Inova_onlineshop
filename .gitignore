@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+.env
+venv/
+
+# Byte-code files
+*.pyc
+__pycache__/
+
+# Django specific
+*.log
+local_settings.py
+db.sqlite3
+
+# VS Code specific
+.vscode/settings.json
+.vscode/*.log
